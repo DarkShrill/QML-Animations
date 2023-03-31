@@ -16,4 +16,4 @@ Finally, a Timer object is defined that performs a "pulse" animation of the rect
 
 Screenshots of the application
 
-![Demo video](https://github.com/DarkShrill/QML-Animations/blob/master/stuff/animations-demo.mkv)
+https://github.com/DarkShrill/QML-Animations/blob/master/stuff/animations-demo.mp4
